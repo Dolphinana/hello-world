@@ -2,4 +2,4 @@
 J2300's first repository
 
 
-Hello! i'm just testing GitHub! and eating Ice Cream!
+Hello! I'm just testing GitHub! And eating Ice Cream!
